@@ -2,3 +2,7 @@
 	path = stereo_shop_view
 	url = git@bitbucket.org:hackblog/stereo_shop_view.git
 	branch = master
+[submodule "stereo_shop_search_engine"]
+	path = stereo_shop_search_engine
+	url = git@bitbucket.org:the_teacher/stereo_shop_search_engine.git
+	branch = master
