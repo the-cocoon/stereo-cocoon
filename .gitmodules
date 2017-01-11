@@ -6,3 +6,7 @@
 	path = stereo_shop_search_engine
 	url = git@bitbucket.org:the_teacher/stereo_shop_search_engine.git
 	branch = master
+[submodule "rails_shop_search_engine"]
+	path = rails_shop_search_engine
+	url = git@bitbucket.org:the_teacher/rails_shop_search_engine.git
+	branch = master

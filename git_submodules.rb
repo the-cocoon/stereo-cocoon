@@ -8,6 +8,11 @@ SUBS = %w[
   stereo_shop_search_engine
   git@bitbucket.org:the_teacher/stereo_shop_search_engine.git
   master
+
+  rails_shop_search_engine
+  rails_shop_search_engine
+  git@bitbucket.org:the_teacher/rails_shop_search_engine.git
+  master
 ].each_slice(4)
 
 def submodule_add(name, path, repo, branch)
