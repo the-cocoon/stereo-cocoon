@@ -1,0 +1,4 @@
+[submodule "stereo_shop_view"]
+	path = stereo_shop_view
+	url = git@bitbucket.org:hackblog/stereo_shop_view.git
+	branch = master
