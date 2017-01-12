@@ -44,6 +44,11 @@ def submodules_update
   puts `#{ cmd }`
 end
 
+def submodules_update_all_remotes
+  puts cmd = "git submodule update --recursive --remote"
+  puts `#{ cmd }`
+end
+
 def add_submodules
   SUBS.each do |sub|
     name   = sub[0]
